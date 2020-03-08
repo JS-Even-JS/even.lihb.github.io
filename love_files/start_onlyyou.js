@@ -96,7 +96,7 @@
             setTimeout(function(){                
                 $('#div_onlyyou').fadeOut();
                 init_theme(); 
-            },2000);
+            },500);
             setTimeout(function(){ 
                 $('#div_onlyyou').remove();
             },3000);
